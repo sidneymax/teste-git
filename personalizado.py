@@ -1,0 +1,11 @@
+nome = input("Olá, qual seu nome?")
+idade = input("Qual a sua idade?")
+telefone = input("Qual seu número de telefone?")
+endereco = input("Qual seu endereço?")
+cidade = input("Qual sua cidade?")
+
+print(f"{nome}, Gostei do seu nome")
+print(f"{idade}, Bastante jovem hein?")
+print(f"{telefone}, Entendido.")
+print(f"{endereco}, Que legal")
+print(f"{cidade}, está cidade é linda.")
